@@ -1,0 +1,62 @@
+body {
+    font-family: 'Acme', sans-serif;
+    background-color: #F6F6F6;
+    padding-bottom: 5rem;
+}
+
+
+/* navbar css starts here  */
+
+.bg-light {
+    background-color: #FFC7C7!important;
+}
+
+.navbar-brand {
+    font-family: 'Acme', sans-serif;
+    font-size: 2rem;
+    font-weight: bolder;
+    color: #8785A2!important;
+}
+
+.nav-item {
+    padding: 0 0.5rem;
+}
+
+.nav-link {
+    color: #9ba1a8!important;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.nav-link:hover {
+    background-color: #424141;
+}
+
+
+/* navbar css ends here  */
+
+.my-info {
+    padding: 2rem 5rem;
+    color: #8785A2;
+}
+
+.btn-info {
+    background-color: #FFE2E2!important;
+    color: #8785A2!important;
+    margin-left: 20px;
+    margin-top: 3rem;
+    padding: 0.7rem 2rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover {
+    background-color: #FFC7C7!important;
+}
+
+.table-heading {
+    background-color: #FFE2E2;
+    font-weight: bolder;
+}
+
+.table-heading :hover {
+    background-color: #FFC7C7;
+}
